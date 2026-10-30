@@ -5,3 +5,6 @@ Estoy aprendiendo Git y GitHub.
 
 ## Objetivo
 Aprender a controlar versiones.
+soy esrudiante de 2e2 
+no presto atecnion
+y juego en clases
