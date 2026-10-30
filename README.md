@@ -11,3 +11,7 @@ y juego en clases
 
 me gusta el futbol
 molestar
+ 
+
+ me gusta el quito 
+ me gusta mate
